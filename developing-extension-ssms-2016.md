@@ -6,7 +6,7 @@ SSMS Schema Folders (https://ssmsschemafolders.codeplex.com/) is an extension fo
 
 Using Visual Studio 2015, create a VSIX project. `Templates > Visual C# (or Visual Basic) > Extensibility > VSIX Project`
 There should be the option to install the Visual Studio 2015 SDK if it is not already installed.
-Next add a VSPackage. `Right click on project > Add > New Item… > Extensibility > VSPackage > Visual Studio Package`
+Next add a VSPackage. `Right click on project > Add > New Item... > Extensibility > VSPackage > Visual Studio Package`
 As a sample, add a Custom Command. Same as the VSPackage above. This will add a menu item to the tools menu so that we can see SSMS loads the extension.
 More details can be found at https://msdn.microsoft.com/en-us/library/bb166030.aspx
 
