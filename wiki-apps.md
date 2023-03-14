@@ -1,5 +1,7 @@
 ---
+layout: page
 title: The Apps as Wiki
+permalink: /wikiapps
 ---
 
 ## Static site with mkdocs
