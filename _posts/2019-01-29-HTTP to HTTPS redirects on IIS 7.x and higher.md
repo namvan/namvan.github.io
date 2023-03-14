@@ -1,0 +1,1 @@
+[Original post](https://blogs.msdn.microsoft.com/kaushal/2013/05/22/http-to-https-redirects-on-iis-7-x-and-higher/)
