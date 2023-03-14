@@ -1,3 +1,9 @@
+---
+layout: post
+date:   2022-06-13 01:01:01 +1100
+categories: 
+---
+
 Debian, Xfce, Terminal without Tab completion from xrdp session
 original link here https://ubuntuforums.org/archive/index.php/t-1771058.html
 

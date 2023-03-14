@@ -1,3 +1,8 @@
+---
+date:   2022-06-13 01:01:01 +1100
+categories: 
+---
+
 # Call ps1 from ps1
 Problem: 
 - Got a Powershell script to call : TestMe.ps1

@@ -1,3 +1,9 @@
+---
+layout: post
+date:   2022-06-13 01:01:01 +1100
+categories: 
+---
+
 Developing Extensions for SSMS 2016
 ===================================
 Original content is [here](https://www.sqlservercentral.com/Forums/Topic1802009-3740-1.aspx)

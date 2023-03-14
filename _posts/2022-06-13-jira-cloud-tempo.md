@@ -1,3 +1,9 @@
+---
+layout: post
+date:   2022-06-13 01:01:01 +1100
+categories: 
+---
+
 # JIRA Cloud and Tempo
 
 - Tempo API v3 docs can be read from here https://apidocs.tempo.io/

@@ -1,5 +1,6 @@
 ---
-title: Everything Else
+layout: page
+title: Notes
 ---
 
 - Bootstrap 12 column-grid https://getbootstrap.com/2.0.0/scaffolding.html
