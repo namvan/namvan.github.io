@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Bridged Network for KVM Guests
 date: 2020-07-03 00:10 +1100
