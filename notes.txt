@@ -1,0 +1,21 @@
+Create user to access file share only in Windows
+https://serverfault.com/questions/323323/creating-a-windows-account-only-for-share-access
+
+Intro to networking etc
+https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols#protocols
+
+HAProxy tcp mode
+https://stackoverflow.com/questions/57499209/haproxy-tcp-mode-source-client-ip
+
+More HAProxy setup
+https://danuka-praneeth.medium.com/setting-up-a-load-balancer-with-haproxy-2c88fed14284
+
+4 vs 7
+https://www.haproxy.com/blog/layer-4-and-layer-7-proxy-mode
+
+AzCopy blob to blob
+https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-blobs-copy
+
+Check open ports in Linux with CLI
+https://www.cyberciti.biz/faq/how-to-check-open-ports-in-linux-using-the-cli/
+
