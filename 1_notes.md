@@ -25,3 +25,7 @@ title: Notes
 - Beautiful Soup https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 - https://www.learndatasci.com/tutorials/ultimate-guide-web-scraping-w-python-requests-and-beautifulsoup/
 - https://realpython.com/podcasts/rpp/12/#t=980
+
+### Links
+https://reinout.vanrees.org/weblog/2017/05/02/https-behind-proxy.html
+https://opensource.com/business/16/8/open-source-alternatives-office-365
